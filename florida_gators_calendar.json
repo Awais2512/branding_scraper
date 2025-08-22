@@ -1,0 +1,310 @@
+{
+  "scraping_info": {
+    "scraped_at": "2025-08-22T15:40:26.759822",
+    "team_name": "Florida Gators",
+    "base_url": "https://floridagators.com/calendar",
+    "ai_provider": "google_gemini",
+    "model": "gemini-1.5-flash",
+    "total_sports": 21,
+    "successful_scrapes": 2,
+    "total_events": 5
+  },
+  "sports_schedules": {
+    "Florida Gators": {
+      "success": true,
+      "sport_type": "Composite",
+      "url": "https://floridagators.com/calendar",
+      "team_name": "Florida Gators",
+      "events": [
+        {
+          "date": "August 21, 2025",
+          "time": "TBD",
+          "opponent": "vs Home Opponent",
+          "venue": "Home Venue",
+          "location": "Home City, ST",
+          "event_type": "Home Game",
+          "tournament": null,
+          "conference": "Conference",
+          "home_away": "home",
+          "sport": null,
+          "additional_info": null,
+          "source_url": "https://floridagators.com/calendar",
+          "extracted_at": "2025-08-22T15:40:30.478183",
+          "extraction_method": "gemini_ai_comprehensive"
+        },
+        {
+          "date": "August 22, 2025",
+          "time": "TBD",
+          "opponent": "at Away Opponent",
+          "venue": "Away Venue",
+          "location": "Away City, ST",
+          "event_type": "Away Game",
+          "tournament": null,
+          "conference": "Non-Conference",
+          "home_away": "away",
+          "sport": null,
+          "additional_info": null,
+          "source_url": "https://floridagators.com/calendar",
+          "extracted_at": "2025-08-22T15:40:30.478216",
+          "extraction_method": "gemini_ai_comprehensive"
+        },
+        {
+          "date": "August 24, 2025",
+          "time": "TBD",
+          "opponent": "vs Neutral Opponent",
+          "venue": "Neutral Venue",
+          "location": "Neutral City, ST",
+          "event_type": "Neutral Game",
+          "tournament": null,
+          "conference": "Tournament",
+          "home_away": "neutral",
+          "sport": null,
+          "additional_info": null,
+          "source_url": "https://floridagators.com/calendar",
+          "extracted_at": "2025-08-22T15:40:30.478225",
+          "extraction_method": "gemini_ai_comprehensive"
+        }
+      ],
+      "scraped_at": "2025-08-22T15:40:30.478235"
+    },
+    "Florida Gators Football": {
+      "success": true,
+      "sport_type": "Football",
+      "url": "https://floridagators.com/sports/football/schedule",
+      "team_name": "Florida Gators Football",
+      "events": [
+        {
+          "date": "August 21, 2025",
+          "time": "7:30 PM",
+          "opponent": "vs Conference Rival",
+          "venue": "Home Stadium",
+          "location": "Home City, ST",
+          "event_type": "Home Game",
+          "tournament": null,
+          "conference": "Conference",
+          "home_away": "home",
+          "sport": "football",
+          "additional_info": null,
+          "source_url": "https://floridagators.com/sports/football/schedule",
+          "extracted_at": "2025-08-22T15:40:32.485685",
+          "extraction_method": "gemini_ai_comprehensive"
+        },
+        {
+          "date": "August 22, 2025",
+          "time": "3:00 PM",
+          "opponent": "at Non-Conference Team",
+          "venue": "Away Stadium",
+          "location": "Away City, ST",
+          "event_type": "Away Game",
+          "tournament": null,
+          "conference": "Non-Conference",
+          "home_away": "away",
+          "sport": "football",
+          "additional_info": null,
+          "source_url": "https://floridagators.com/sports/football/schedule",
+          "extracted_at": "2025-08-22T15:40:32.485707",
+          "extraction_method": "gemini_ai_comprehensive"
+        }
+      ],
+      "scraped_at": "2025-08-22T15:40:32.485717"
+    },
+    "Florida Gators Basketball": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Men's Basketball": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Women's Basketball": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Baseball": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Soccer": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Volleyball": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Ice Hockey": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Lacrosse": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Rowing": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Swimming & Diving": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Tennis": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Track & Field": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Field Hockey": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Softball": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Gymnastics": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Golf": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Cross Country": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    },
+    "Florida Gators Wrestling": {
+      "success": false,
+      "events": [],
+      "error": "No events found"
+    }
+  },
+  "composite_calendar": [
+    {
+      "sport": "Florida Gators",
+      "sport_type": "Composite",
+      "date": "August 21, 2025",
+      "time": "TBD",
+      "opponent": "vs Home Opponent",
+      "location": "Home City, ST",
+      "venue": "Home Venue",
+      "event_type": "Home Game",
+      "tournament": null,
+      "conference": "Conference",
+      "home_away": "home",
+      "source_url": "https://floridagators.com/calendar",
+      "extracted_at": "2025-08-22T15:40:30.478306"
+    },
+    {
+      "sport": "Florida Gators",
+      "sport_type": "Composite",
+      "date": "August 22, 2025",
+      "time": "TBD",
+      "opponent": "at Away Opponent",
+      "location": "Away City, ST",
+      "venue": "Away Venue",
+      "event_type": "Away Game",
+      "tournament": null,
+      "conference": "Non-Conference",
+      "home_away": "away",
+      "source_url": "https://floridagators.com/calendar",
+      "extracted_at": "2025-08-22T15:40:30.478315"
+    },
+    {
+      "sport": "Florida Gators",
+      "sport_type": "Composite",
+      "date": "August 24, 2025",
+      "time": "TBD",
+      "opponent": "vs Neutral Opponent",
+      "location": "Neutral City, ST",
+      "venue": "Neutral Venue",
+      "event_type": "Neutral Game",
+      "tournament": null,
+      "conference": "Tournament",
+      "home_away": "neutral",
+      "source_url": "https://floridagators.com/calendar",
+      "extracted_at": "2025-08-22T15:40:30.478319"
+    },
+    {
+      "sport": "Florida Gators Football",
+      "sport_type": "Football",
+      "date": "August 21, 2025",
+      "time": "7:30 PM",
+      "opponent": "vs Conference Rival",
+      "location": "Home City, ST",
+      "venue": "Home Stadium",
+      "event_type": "Home Game",
+      "tournament": null,
+      "conference": "Conference",
+      "home_away": "home",
+      "source_url": "https://floridagators.com/sports/football/schedule",
+      "extracted_at": "2025-08-22T15:40:32.485773"
+    },
+    {
+      "sport": "Florida Gators Football",
+      "sport_type": "Football",
+      "date": "August 22, 2025",
+      "time": "3:00 PM",
+      "opponent": "at Non-Conference Team",
+      "location": "Away City, ST",
+      "venue": "Away Stadium",
+      "event_type": "Away Game",
+      "tournament": null,
+      "conference": "Non-Conference",
+      "home_away": "away",
+      "source_url": "https://floridagators.com/sports/football/schedule",
+      "extracted_at": "2025-08-22T15:40:32.485781"
+    }
+  ],
+  "statistics": {
+    "total_sports": 20,
+    "successful_scrapes": 2,
+    "total_events": 5,
+    "success_rate": "10.0%",
+    "events_per_sport": {
+      "Florida Gators": 3,
+      "Florida Gators Football": 2
+    },
+    "sport_types": {
+      "null": 3,
+      "football": 2
+    },
+    "conferences": {
+      "Conference": 2,
+      "Non-Conference": 2,
+      "Tournament": 1
+    },
+    "venues": {
+      "Home Venue": 1,
+      "Away Venue": 1,
+      "Neutral Venue": 1,
+      "Home Stadium": 1,
+      "Away Stadium": 1
+    },
+    "locations": {
+      "Home City, ST": 2,
+      "Away City, ST": 2,
+      "Neutral City, ST": 1
+    }
+  }
+}

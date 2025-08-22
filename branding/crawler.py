@@ -59,36 +59,36 @@ class BrandingCrawler:
     def _create_browser_config(self) -> BrowserConfig:
         """Create browser configuration for the crawler"""
         return BrowserConfig(
-            browser_type="chromium",
-            headless=True,
-            verbose=False
-        )
-    
+        browser_type="chromium",
+        headless=True,
+        verbose=False
+    )
+
     def _create_crawl_config(self) -> CrawlerRunConfig:
         """Create crawl configuration for the crawler"""
         # Create filter chain for brand-related pages
         filters = [URLPatternFilter(pattern, use_glob=True) for pattern in BRAND_PATTERNS]
-        filter_chain = FilterChain(filters)
-        
+    filter_chain = FilterChain(filters)
+
         # Deep crawl strategy
         deep_strategy = BFSDeepCrawlStrategy(
-            max_depth=1,
-            filter_chain=filter_chain,
-            include_external=False,
-            max_pages=20  # Limit to avoid excessive crawling
-        )
-        
+        max_depth=1,
+        filter_chain=filter_chain,
+        include_external=False,
+        max_pages=20  # Limit to avoid excessive crawling
+    )
+
         return CrawlerRunConfig(
-            cache_mode=CacheMode.BYPASS,
+        cache_mode=CacheMode.BYPASS,
             deep_crawl_strategy=deep_strategy,
-            scraping_strategy=LXMLWebScrapingStrategy(),  # static-first; faster/leaner on serverless
-            only_text=False,
-            score_links=False,
-            verbose=False,
-            keep_attrs=['style', 'class', 'id'],
-            keep_data_attributes=True
-        )
-    
+        scraping_strategy=LXMLWebScrapingStrategy(),  # static-first; faster/leaner on serverless
+        only_text=False,
+        score_links=False,
+        verbose=False,
+        keep_attrs=['style', 'class', 'id'],
+        keep_data_attributes=True
+    )
+
     async def crawl_branding(self, official_site_url: str, extra_urls: Optional[List[str]] = None) -> Dict[str, Any]:
         """
         Main method to crawl branding information from a team's official website
@@ -100,8 +100,8 @@ class BrandingCrawler:
         Returns:
             Dictionary containing all extracted branding information
         """
-        seed_urls = [official_site_url] + (extra_urls or [])
-        
+    seed_urls = [official_site_url] + (extra_urls or [])
+
         # Initialize data structures
         branding_data = self._initialize_branding_data(official_site_url)
         
@@ -167,8 +167,8 @@ class BrandingCrawler:
     async def _perform_crawling(self, seed_urls: List[str], branding_data: Dict[str, Any]):
         """Perform the actual crawling process"""
         async with AsyncWebCrawler(config=self.browser_config) as crawler:
-            for seed in seed_urls:
-                try:
+        for seed in seed_urls:
+            try:
                     await self._crawl_single_url(crawler, seed, branding_data)
                 except Exception as e:
                     print(f"Error crawling {seed}: {e}")
@@ -183,8 +183,8 @@ class BrandingCrawler:
         
         for result in crawl_results:
             if not getattr(result, "success", False):
-                continue
-            
+                        continue
+
             self._process_crawl_result(result, branding_data)
     
     def _process_crawl_result(self, result, branding_data: Dict[str, Any]):
@@ -237,37 +237,37 @@ class BrandingCrawler:
         # Combine crawler images with HTML images
         all_images = media_items + html_images
         
-        # Categorize images
+                        # Categorize images
         if all_images:
             categorized = categorize_images(all_images, html_content, branding_data.get("team_name", ""))
-            
+                        
             # Update global image collection
-            for category in categorized:
+                        for category in categorized:
                 if category in branding_data["images"]:
                     branding_data["images"][category].extend(categorized[category])
-            
+                        
             # Set primary logo if not already set
             if not branding_data["logos"]["primary"] and categorized['logos']:
-                logo_item = categorized['logos'][0]
+                            logo_item = categorized['logos'][0]
                 branding_data["logos"]["primary"] = {
-                    "url": logo_item['url'],
-                    "format": logo_item['format'],
-                    "variant": "primary",
-                    "alt_text": logo_item['alt_text'],
+                                "url": logo_item['url'],
+                                "format": logo_item['format'],
+                                "variant": "primary",
+                                "alt_text": logo_item['alt_text'],
                     "source_url": page_url
-                }
-            
-            # Add secondary logos
-            for logo in categorized['logos'][1:5]:  # Limit to 5 total logos
+                            }
+                        
+                        # Add secondary logos
+                        for logo in categorized['logos'][1:5]:  # Limit to 5 total logos
                 branding_data["logos"]["secondary"].append({
-                    "url": logo['url'],
-                    "variant": "secondary",
-                    "format": logo['format'],
+                                "url": logo['url'],
+                                "variant": "secondary",
+                                "format": logo['format'],
                     "source_url": page_url,
-                    "alt_text": logo['alt_text']
-                })
-            
-            # Legacy logo extraction (keeping for backward compatibility)
+                                "alt_text": logo['alt_text']
+                            })
+                    
+                    # Legacy logo extraction (keeping for backward compatibility)
             if not branding_data["logos"]["primary"]:
                 primary_logo = pick_primary_logo(media_items, page_url)
                 if primary_logo:
@@ -303,17 +303,17 @@ class BrandingCrawler:
         # Extract short name
         if branding_data["team_name"] and not branding_data["short_name"]:
             branding_data["short_name"] = extract_short_name(branding_data["team_name"])
-        
-        # Extract mascot if not already found
+
+    # Extract mascot if not already found
         if not branding_data["mascot"] and branding_data["team_name"]:
-            # Get HTML content from the first successful crawl for mascot extraction
-            html_content = ""
-            try:
+        # Get HTML content from the first successful crawl for mascot extraction
+        html_content = ""
+        try:
                 # This is a simplified approach - in practice, you might want to store HTML content
                 # during crawling for this purpose
                 pass
-            except:
-                pass
+        except:
+            pass
             
             branding_data["mascot"] = extract_mascot(
                 branding_data["team_name"], 
