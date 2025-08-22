@@ -1,0 +1,21 @@
+[project]
+name = "branding-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "crawl4ai>=0.1.0",
+    "flask>=2.3.3",
+    "functions-framework==3.*",
+    "lxml>=5.2.2",
+    "playwright>=1.54.0",
+    "pydantic>=2.7.0",
+    "python-dateutil>=2.9.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.3",
+]
+
+[project.scripts]
+sports-scraper = "sports_scraper.main:cli"

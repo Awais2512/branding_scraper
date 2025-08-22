@@ -1,0 +1,114 @@
+{
+  "team_id": "usctrojans-com",
+  "official_site_url": "https://usctrojans.com",
+  "team_name": "USC Athletics - Official Athletics Website",
+  "short_name": "USC",
+  "mascot": "Trojans",
+  "logos": {
+    "primary": {
+      "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fusctrojans.com%2Fimages%2F2025%2F8%2F20%2FAV-25-MBB-NON_CON_web.png&width=872&height=490&type=webp",
+      "format": "com/",
+      "variant": "primary",
+      "alt_text": "USC Men's Basketball Announces 2025-26 Non-Conference Schedule",
+      "source_url": "https://usctrojans.com"
+    },
+    "secondary": [
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fusctrojans.com%2Fimages%2F2025%2F8%2F20%2F08172025-USC-WOMENS-SOCCER-CAL-BAPTIST-80403.jpg&width=400&height=225&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://usctrojans.com",
+        "alt_text": "No. 5 USC Women's Soccer Hosts Pepperdine, New Mexico State"
+      },
+      {
+        "url": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fusctrojans.com%2Fimages%2F2025%2F1%2F14%2Fthe-place-to-be-2024__1_.png&height=300&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://usctrojans.com",
+        "alt_text": "The pLAce To Be - USC Trojans"
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fusctrojans.com%2Fimages%2F2020%2F8%2F30%2Fcoca_cola_240x136.png&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://usctrojans.com",
+        "alt_text": "Coca-Cola"
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fusctrojans.com%2Fimages%2F2025%2F1%2F27%2Fitrustcapital-usc-trojans-partners.png&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://usctrojans.com",
+        "alt_text": "iTrustCapital | USC Trojans Partners"
+      },
+      {
+        "url": "https://usctrojans.com/images/logos/site/site.png",
+        "variant": "alt",
+        "format": "png",
+        "source_url": "https://usctrojans.com"
+      }
+    ],
+    "favicon_icons": []
+  },
+  "images": {
+    "logos": [],
+    "dashboard_hero": [],
+    "memory_achievement": [],
+    "action_shots": [],
+    "backgrounds": [],
+    "content_news": [],
+    "facilities": [],
+    "other": []
+  },
+  "colors": {
+    "primary": [
+      {
+        "role": "primary",
+        "hex": "#FFD700",
+        "source_url": "https://usctrojans.com"
+      },
+      {
+        "role": "primary",
+        "hex": "#990000",
+        "source_url": "https://usctrojans.com"
+      }
+    ],
+    "secondary": []
+  },
+  "typography": {
+    "primary": "Arial",
+    "secondary": "Georgia",
+    "web_fallbacks": null,
+    "source_url": "https://usctrojans.com"
+  },
+  "social_links": {
+    "x": "https://twitter.com/USC_Baseball",
+    "instagram": "https://instagram.com/sctrojans_baseball",
+    "youtube": "https://www.youtube.com/user/USCAthletics"
+  },
+  "brand_resources": {
+    "brand_guide_urls": [],
+    "usage_guidelines": {
+      "do_not": "Do Not Sell or Share My Personal Information"
+    },
+    "taglines": {
+      "hashtags": [
+        "main",
+        "MyAccount"
+      ]
+    }
+  },
+  "legal": {
+    "copyright_owner": "© 2025 University of Southern California Athletics </div>",
+    "trademark_notes": "May include registered marks owned by the institution."
+  },
+  "scrape_meta": {
+    "scraped_at": "2025-08-21T16:45:22.024094",
+    "source_pages": [
+      "https://usctrojans.com",
+      "https://usctrojans.com/branding"
+    ],
+    "version": 3,
+    "total_images_found": 0
+  }
+}

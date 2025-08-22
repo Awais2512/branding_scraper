@@ -1,0 +1,1575 @@
+{
+  "team_id": "bceagles-com",
+  "official_site_url": "https://bceagles.com",
+  "team_name": "Boston College Athletics - Official Athletics Website",
+  "short_name": "Boston",
+  "mascot": "Eagles",
+  "logos": {
+    "primary": {
+      "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FEDITED-8__1_.JPG&width=343&height=458&type=webp",
+      "format": "com/",
+      "variant": "primary",
+      "alt_text": "Boston College Football Day 17 Training Camp",
+      "source_url": "https://bceagles.com"
+    },
+    "secondary": [
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FEDITED-8__1_.JPG&width=635&height=952&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://bceagles.com",
+        "alt_text": "Boston College Football Day 17 Training Camp"
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FEDITED-8__1_.JPG&width=704&height=938&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://bceagles.com",
+        "alt_text": "Boston College Football Day 17 Training Camp"
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2F20250808_MSOC_FAIR_NR_48.jpg&width=416&height=416&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://bceagles.com",
+        "alt_text": "Men&#39;s Soccer huddle during scrimmage against Fairfield"
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2F20250808_MSOC_FAIR_NR_48.jpg&width=386&height=486&type=webp",
+        "variant": "secondary",
+        "format": "com/",
+        "source_url": "https://bceagles.com",
+        "alt_text": "Men&#39;s Soccer huddle during scrimmage against Fairfield"
+      }
+    ],
+    "favicon_icons": []
+  },
+  "images": {
+    "logos": [
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FEDITED-8__1_.JPG&width=343&height=458&type=webp",
+        "alt_text": "Boston College Football Day 17 Training Camp",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 2,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FEDITED-8__1_.JPG&width=635&height=952&type=webp",
+        "alt_text": "Boston College Football Day 17 Training Camp",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 2,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FEDITED-8__1_.JPG&width=704&height=938&type=webp",
+        "alt_text": "Boston College Football Day 17 Training Camp",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 2,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2F20250808_MSOC_FAIR_NR_48.jpg&width=416&height=416&type=webp",
+        "alt_text": "Men&#39;s Soccer huddle during scrimmage against Fairfield",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 3,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2F20250808_MSOC_FAIR_NR_48.jpg&width=386&height=486&type=webp",
+        "alt_text": "Men&#39;s Soccer huddle during scrimmage against Fairfield",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 3,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2F20250808_MSOC_FAIR_NR_48.jpg&width=470&height=705&type=webp",
+        "alt_text": "Men&#39;s Soccer huddle during scrimmage against Fairfield",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 3,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2F20250808_MSOC_FAIR_NR_48.jpg&width=732&height=732&type=webp",
+        "alt_text": "Men&#39;s Soccer huddle during scrimmage against Fairfield",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 3,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FSenior_Bowl_Top_300_WEB.jpg&width=416&height=416&type=webp",
+        "alt_text": "BC Football Senior Bowl Top 300 Graphic",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 4,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FSenior_Bowl_Top_300_WEB.jpg&width=386&height=486&type=webp",
+        "alt_text": "BC Football Senior Bowl Top 300 Graphic",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 4,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FSenior_Bowl_Top_300_WEB.jpg&width=470&height=705&type=webp",
+        "alt_text": "BC Football Senior Bowl Top 300 Graphic",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 4,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F20%2FSenior_Bowl_Top_300_WEB.jpg&width=732&height=732&type=webp",
+        "alt_text": "BC Football Senior Bowl Top 300 Graphic",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 4,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FERS07188.jpg&width=416&height=416&type=webp",
+        "alt_text": "BC Football Camp Report Episode 5",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 5,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FERS07188.jpg&width=386&height=486&type=webp",
+        "alt_text": "BC Football Camp Report Episode 5",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 5,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FERS07188.jpg&width=470&height=705&type=webp",
+        "alt_text": "BC Football Camp Report Episode 5",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 5,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FERS07188.jpg&width=732&height=732&type=webp",
+        "alt_text": "BC Football Camp Report Episode 5",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 5,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FEDITED-2.JPG&width=416&height=416&type=webp",
+        "alt_text": "BC Football Training Camp Day 16",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 6,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FEDITED-2.JPG&width=386&height=486&type=webp",
+        "alt_text": "BC Football Training Camp Day 16",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 6,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FEDITED-2.JPG&width=470&height=705&type=webp",
+        "alt_text": "BC Football Training Camp Day 16",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 6,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F19%2FEDITED-2.JPG&width=732&height=732&type=webp",
+        "alt_text": "BC Football Training Camp Day 16",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 6,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FCaptains.jpg&width=416&height=416&type=webp",
+        "alt_text": "2025-26 MIH Captains",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 7,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FCaptains.jpg&width=386&height=486&type=webp",
+        "alt_text": "2025-26 MIH Captains",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 7,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FCaptains.jpg&width=470&height=705&type=webp",
+        "alt_text": "2025-26 MIH Captains",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 7,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FCaptains.jpg&width=732&height=732&type=webp",
+        "alt_text": "2025-26 MIH Captains",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 7,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FWelcome_Krysiak_WEB.png&width=416&height=416&type=webp",
+        "alt_text": "Garrett Nickel Welcome",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 8,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FWelcome_Krysiak_WEB.png&width=386&height=486&type=webp",
+        "alt_text": "Garrett Nickel Welcome",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 8,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FWelcome_Krysiak_WEB.png&width=470&height=705&type=webp",
+        "alt_text": "Garrett Nickel Welcome",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 8,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F18%2FWelcome_Krysiak_WEB.png&width=732&height=732&type=webp",
+        "alt_text": "Garrett Nickel Welcome",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 8,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F17%2FPhoto_Aug_17_2025__1_20_33_PM.jpg&width=416&height=416&type=webp",
+        "alt_text": "Ama_celebration",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 9,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F17%2FPhoto_Aug_17_2025__1_20_33_PM.jpg&width=386&height=486&type=webp",
+        "alt_text": "Ama_celebration",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 9,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F17%2FPhoto_Aug_17_2025__1_20_33_PM.jpg&width=470&height=705&type=webp",
+        "alt_text": "Ama_celebration",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 9,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F17%2FPhoto_Aug_17_2025__1_20_33_PM.jpg&width=732&height=732&type=webp",
+        "alt_text": "Ama_celebration",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 9,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2F202508014_WSOC_Boston_College_vs_Stonehill_MK_89.jpg&width=416&height=416&type=webp",
+        "alt_text": "Sophia Lowenberg vs. Stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 11,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2F202508014_WSOC_Boston_College_vs_Stonehill_MK_89.jpg&width=386&height=486&type=webp",
+        "alt_text": "Sophia Lowenberg vs. Stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 11,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2F202508014_WSOC_Boston_College_vs_Stonehill_MK_89.jpg&width=470&height=705&type=webp",
+        "alt_text": "Sophia Lowenberg vs. Stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 11,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2F202508014_WSOC_Boston_College_vs_Stonehill_MK_89.jpg&width=732&height=732&type=webp",
+        "alt_text": "Sophia Lowenberg vs. Stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 11,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F14%2FPhoto_Aug_14_2025__8_47_06_PM.jpg&width=416&height=416&type=webp",
+        "alt_text": "milla lee vs stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 12,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F14%2FPhoto_Aug_14_2025__8_47_06_PM.jpg&width=386&height=486&type=webp",
+        "alt_text": "milla lee vs stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 12,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F14%2FPhoto_Aug_14_2025__8_47_06_PM.jpg&width=470&height=705&type=webp",
+        "alt_text": "milla lee vs stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 12,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F14%2FPhoto_Aug_14_2025__8_47_06_PM.jpg&width=732&height=732&type=webp",
+        "alt_text": "milla lee vs stonehill",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 12,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F12%2F12%2Faththrd-mobile-temp786.jpg&type=webp",
+        "alt_text": "athletes_thread_704x260",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 24,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F15%2FNIL_704x260.jpg&type=webp",
+        "alt_text": "athletes_thread_704x260",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 24,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F12%2F12%2Fnb-mobile-temp786.jpg&type=webp",
+        "alt_text": "NB_704x260",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 25,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F15%2FShop_Now_704x260.jpg&type=webp",
+        "alt_text": "NB_704x260",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 25,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F2%2F24%2F768_sold_out.jpg&type=webp",
+        "alt_text": "2025 new football season tickets sold out",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 26,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F2%2F24%2F704_260_sseason_tickets_sold_out.jpg&type=webp",
+        "alt_text": "2025 new football season tickets sold out",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 26,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F19%2FDSC09452.jpg&width=250&height=250&type=webp",
+        "alt_text": "Olivia Benton",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 27,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F9%2F28%2FDSC05871.jpg&width=250&height=250&type=webp",
+        "alt_text": "Donovan Ezeiruaku",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 5,
+        "type": "image",
+        "group_id": 28,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F15%2FDSC02259.jpg&width=250&height=250&type=webp",
+        "alt_text": "Charlotte Kramer",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 5,
+        "type": "image",
+        "group_id": 29,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F10%2F30%2FPhoto_Dec_10_2023__2_36_39_PM__1_.jpg&width=250&height=250&type=webp",
+        "alt_text": "Andrea  Daley",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 5,
+        "type": "image",
+        "group_id": 30,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F10%2F28%2FDSC02000.jpg&width=250&height=250&type=webp",
+        "alt_text": "Ryan Leonard",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 5,
+        "type": "image",
+        "group_id": 31,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2Fintegration_2024%2Fpodcast_cover.png&width=343&height=172&type=webp",
+        "alt_text": "The Podcast for Boston",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 5,
+        "type": "image",
+        "group_id": 35,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2Fintegration_2024%2Fpodcast_cover.png&width=405&height=202&type=webp",
+        "alt_text": "The Podcast for Boston",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 5,
+        "type": "image",
+        "group_id": 35,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2Fintegration_2024%2Fpodcast_cover.png&width=672&height=336&type=webp",
+        "alt_text": "The Podcast for Boston",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 5,
+        "type": "image",
+        "group_id": 35,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2019%2F8%2F5%2FACCNX.png&width=40&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 15,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2019%2F8%2F5%2FACCNX.png&width=40&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 17,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2019%2F8%2F5%2FACCNX.png&width=40&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 20,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F11%2Ffooter-empower-new.png&type=webp",
+        "alt_text": "footer-empower-new-220x124",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 40,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F11%2Ffooter-mgb-new.png&type=webp",
+        "alt_text": "MGB - promo footer 220x124",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 41,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F11%2Ffooter-mcgovern-new.png&type=webp",
+        "alt_text": "McGovern - promo footer 220x124",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 42,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F11%2Ffooter-nwn-new.png&type=webp",
+        "alt_text": "NWN - promo footer 220x124",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 43,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F11%2Ffooter-rodenhiser-new.png&type=webp",
+        "alt_text": "Rodenhiser - promo footer 220x124",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 44,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F12%2Ffooter-seatgeek-new.png&type=webp",
+        "alt_text": "footer-seatgeek-220x124",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 45,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2024%2F11%2F12%2FFooter_Logos_Village_Bank.png&type=webp",
+        "alt_text": "footer-village bank-220X124",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 46,
+        "source_url": "",
+        "category": "logos",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      }
+    ],
+    "dashboard_hero": [],
+    "memory_achievement": [],
+    "action_shots": [
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2Fscrim2-4.JPG&width=416&height=416&type=webp",
+        "alt_text": "Boston College Football Training Camp 14 Action Shot",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 10,
+        "source_url": "",
+        "category": "action_shots",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2Fscrim2-4.JPG&width=386&height=486&type=webp",
+        "alt_text": "Boston College Football Training Camp 14 Action Shot",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 10,
+        "source_url": "",
+        "category": "action_shots",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2Fscrim2-4.JPG&width=470&height=705&type=webp",
+        "alt_text": "Boston College Football Training Camp 14 Action Shot",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 10,
+        "source_url": "",
+        "category": "action_shots",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fbceagles.com%2Fimages%2F2025%2F8%2F16%2Fscrim2-4.JPG&width=732&height=732&type=webp",
+        "alt_text": "Boston College Football Training Camp 14 Action Shot",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 6,
+        "type": "image",
+        "group_id": 10,
+        "source_url": "",
+        "category": "action_shots",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      }
+    ],
+    "backgrounds": [],
+    "content_news": [],
+    "facilities": [],
+    "other": [
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHlNuzT2Ei5Y%2Fmaxresdefault.jpg&width=416&height=234&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 4,
+        "type": "image",
+        "group_id": 37,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHlNuzT2Ei5Y%2Fmaxresdefault.jpg&width=970&height=546&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 4,
+        "type": "image",
+        "group_id": 37,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHlNuzT2Ei5Y%2Fmaxresdefault.jpg&width=988&height=555&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 4,
+        "type": "image",
+        "group_id": 37,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FHlNuzT2Ei5Y%2Fmaxresdefault.jpg&width=734&height=412&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 4,
+        "type": "image",
+        "group_id": 37,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkDKjSdZbxWE%2Fmqdefault.jpg&width=160&height=90&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 38,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkDKjSdZbxWE%2Fmqdefault.jpg&width=238&height=134&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 38,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkDKjSdZbxWE%2Fmqdefault.jpg&width=250&height=141&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 38,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmUFslygCPU0%2Fmqdefault.jpg&width=160&height=90&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 39,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmUFslygCPU0%2Fmqdefault.jpg&width=238&height=134&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 39,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      },
+      {
+        "url": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmUFslygCPU0%2Fmqdefault.jpg&width=250&height=141&type=webp",
+        "alt_text": "",
+        "description": "",
+        "format": "com/",
+        "width": null,
+        "height": null,
+        "score": 3,
+        "type": "image",
+        "group_id": 39,
+        "source_url": "",
+        "category": "other",
+        "context": {
+          "nearby_text": "",
+          "section": "Latest Headlines",
+          "page_type": "news",
+          "related_content": ""
+        }
+      }
+    ]
+  },
+  "colors": {
+    "primary": [
+      {
+        "role": "primary",
+        "hex": "#FFD700",
+        "source_url": "https://bceagles.com"
+      },
+      {
+        "role": "primary",
+        "hex": "#8B0000",
+        "source_url": "https://bceagles.com"
+      }
+    ],
+    "secondary": []
+  },
+  "typography": {
+    "primary": "Arial",
+    "secondary": "Georgia",
+    "web_fallbacks": null,
+    "source_url": "https://bceagles.com"
+  },
+  "social_links": {
+    "youtube": "https://www.youtube.com/bceagles"
+  },
+  "brand_resources": {
+    "brand_guide_urls": [],
+    "usage_guidelines": {
+      "do_not": "Do Not Sell or Share My Personal Information"
+    },
+    "taglines": {
+      "hashtags": [
+        "17",
+        "39",
+        "ForBoston",
+        "16",
+        "main",
+        "14"
+      ]
+    }
+  },
+  "legal": {
+    "copyright_owner": "© 2025 Boston College Athletics </div>",
+    "trademark_notes": "May include registered marks owned by the institution."
+  },
+  "scrape_meta": {
+    "scraped_at": "2025-08-21T19:56:41.324767",
+    "source_pages": [
+      "https://bceagles.com"
+    ],
+    "version": 3,
+    "total_images_found": 77
+  }
+}

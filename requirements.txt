@@ -1,0 +1,9 @@
+
+functions-framework==3.*
+crawl4ai
+playwright
+# optional helpers if you want more parsing later:
+beautifulsoup4
+pydantic
+python-dotenv
+requests

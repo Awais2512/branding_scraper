@@ -1,0 +1,56 @@
+{
+  "team_id": "uclabruins-com",
+  "official_site_url": "https://uclabruins.com",
+  "team_name": "UCLA - Official Athletics Website",
+  "short_name": "UCLA",
+  "mascot": "Bruins",
+  "logos": {
+    "primary": {
+      "url": "https://uclabruins.com/images/logos/site/site.png",
+      "format": "png",
+      "variant": "primary",
+      "alt_text": "UCLA Logo",
+      "source_url": "https://uclabruins.com"
+    },
+    "secondary": [],
+    "favicon_icons": []
+  },
+  "colors": {
+    "primary": [],
+    "secondary": []
+  },
+  "typography": {
+    "primary": "Arial",
+    "secondary": "Georgia",
+    "web_fallbacks": null,
+    "source_url": "https://uclabruins.com"
+  },
+  "social_links": {
+    "x": "https://twitter.com/UCLABaseball",
+    "instagram": "https://instagram.com/uclabruinsbaseball",
+    "facebook": "https://www.facebook.com/UCLAbaseball",
+    "youtube": "https://www.youtube.com/channel/UCm3-NocWw8YDQ6lfOb78ehA"
+  },
+  "brand_resources": {
+    "brand_guide_urls": [],
+    "usage_guidelines": {
+      "do_not": "Do Not Sell or Share My Personal Information"
+    },
+    "taglines": {
+      "hashtags": [
+        "main"
+      ]
+    }
+  },
+  "legal": {
+    "copyright_owner": "© UCLA Athletics. All rights reserved. </div>",
+    "trademark_notes": "May include registered marks owned by the institution."
+  },
+  "scrape_meta": {
+    "scraped_at": "2025-08-21T16:31:11.771302",
+    "source_pages": [
+      "https://uclabruins.com"
+    ],
+    "version": 2
+  }
+}
